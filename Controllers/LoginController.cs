@@ -62,8 +62,7 @@ namespace CourseAPI.Controllers;
         "https://localhost:7261",  
         "https://localhost:7261", 
         claims: new List<Claim>()
-        {
-            
+        {           
             new Claim(ClaimTypes.Role, "ProjectManager")
         },
         expires: DateTime.Now.AddMinutes(10),
