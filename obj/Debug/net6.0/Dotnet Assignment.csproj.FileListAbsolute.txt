@@ -1,0 +1,46 @@
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.csproj.AssemblyReference.cache
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.AssemblyInfoInputs.cache
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.AssemblyInfo.cs
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.csproj.CoreCompileInputs.cache
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.MvcApplicationPartsAssemblyInfo.cs
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.MvcApplicationPartsAssemblyInfo.cache
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/appsettings.Development.json
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/appsettings.json
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Dotnet Assignment
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Dotnet Assignment.deps.json
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Dotnet Assignment.runtimeconfig.json
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Dotnet Assignment.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Dotnet Assignment.pdb
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Humanizer.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/dotnet-ef.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/MySqlConnector.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/staticwebassets.build.json
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/staticwebassets.development.json
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/scopedcss/bundle/Dotnet Assignment.styles.css
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.csproj.CopyComplete
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.dll
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/refint/Dotnet Assignment.dll
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.pdb
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/Dotnet Assignment.genruntimeconfig.cache
+/home/nimishmishra/Dotnet Assignment/obj/Debug/net6.0/ref/Dotnet Assignment.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/nimishmishra/Dotnet Assignment/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
